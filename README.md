@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 <!--
 **Artemka1806/Artemka1806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
